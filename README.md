@@ -1,5 +1,5 @@
 # GEOG676_GISProgramming
-Labs 
+|Labs    |  
 |:------:|
 |[Lab01](Lab01/README.md)|
 |[Lab02](Lab02/README.md)|
