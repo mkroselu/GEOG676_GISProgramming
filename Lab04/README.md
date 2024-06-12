@@ -1,6 +1,6 @@
 # GEOG676_GISProgramming
 
-Lab04 – Read text file & class, objective
+Lab04 – Read text file & class, objects
 
 **Objectives:** 
 **Arcpy** 
