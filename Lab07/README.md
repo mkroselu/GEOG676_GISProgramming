@@ -7,6 +7,7 @@ Lab07 – Raster
 2. Using DEM to create
    
       a. Hills hade
+   
       b. Slope images
 
 ![jpg](image.jpg) 
