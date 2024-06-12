@@ -12,7 +12,6 @@ part1 = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096]
 
 **Part 2**
 Take the following list and **add** all list items together.
-
 part2 = [-1, 23, 483, 8573, -13847, -381569, 1652337, 718522177]
 
 
