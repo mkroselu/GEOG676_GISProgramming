@@ -1,3 +1,11 @@
+**Project descriptions**: The motivation behind this study stemmed from the escalating impact of global warming, which has led to a surge in wildfires and heat waves in recent years. In response to these concerning trends, there arose a need for real-time identification and monitoring of areas experiencing heightened temperature increases. To address this, NASA's ECOSTRESS Land Surface Temperature (LST) data was employed as a crucial resource. 
+
+The primary objectives of the study were twofold: 
+1) to detect and analyze the changes in night and diurnal Land Surface Temperature (LST) from the years 2018 to 2023 within specific locations, namely Houston, College Station, and Sam Houston National Forest. 
+
+2) to compare temperature variations between urbanized areas (cities) and forested regions, such as Sam Houston National Forest, in order to assess the thermal impacts of urbanization and understand the differences in heat patterns between these environments.
+
+
 ### (PART 1) Code in VSCode: Convert the temperature scale from Kelvin to Celsius, output the maps, zonal statistics.
 
 
