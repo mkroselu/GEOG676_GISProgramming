@@ -10,4 +10,3 @@ Lab07 – Raster
 
 ![jpg](image.jpg) 
 
-
