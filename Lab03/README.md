@@ -1,6 +1,6 @@
 # GEOG676_GISProgramming
 
-Lab03 – Read text file & class, objective
+Lab03 – Read text file & class, objects
 
 **Utilize object-oriented programming to calculate the area of each shape in a text file.** 
 1. Read text file
