@@ -11,4 +11,3 @@ Lab06 – Renderer map & Toolbox message
 
 ![jpg](image.jpg) 
 
-
