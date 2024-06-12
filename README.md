@@ -1,7 +1,6 @@
 # GEOG676_GISProgramming
 |Labs    |  
 |:------:|
-|[Lab01](Lab01/README.md)|
 |[Lab02](Lab02/README.md)|
 |[Lab03](Lab03/README.md)|
 |[Lab04](Lab04/README.md)|
